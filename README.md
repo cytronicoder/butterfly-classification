@@ -1,6 +1,6 @@
-# Butterfly Classfication
+# Butterfly Classification
 
-This is a simple repository of my final project for iD Tech's Artificial Intelligence and Machine Learning with NVIDIA course. The repository contains the files needed to generate a model for butterfly classification, as well as code for exporting and validating the model.
+This is a simple repository of my final project for iD Tech's Artificial Intelligence and Machine Learning with NVIDIA. The repository contains the files needed to generate a model for butterfly classification, as well as code for exporting and validating the model.
 
 **Note: Most of these commands need to be run on a Jetson Nano; however, you can train the model on a Google Colab notebook.**
 
