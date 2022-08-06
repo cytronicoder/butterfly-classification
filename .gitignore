@@ -9,6 +9,5 @@
 *.jpg
 *.png
 
-# models folder
+# data folder
 data/
-models/
