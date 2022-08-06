@@ -41,7 +41,13 @@ python3 train.py --model-dir=model --batch-size=32 --workers=4 --epochs=30 data
 The model can be exported to a .onnx file by running the following command:
 
 ```bash
-python3 export.py --model-dir=model
+python3 onnx_export.py --model-dir=model
+```
+
+To validate the model, run the following command:
+
+```bash
+python3 onnx_validate.py --model=model
 ```
 
 ## Testing the Model
