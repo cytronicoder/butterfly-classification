@@ -33,7 +33,7 @@ data
 After downloading the dataset, you can start training the model by running the following command:
 
 ```bash
-python3 train.py --model-dir=models --batch-size=32 --workers=4 --epochs=30 data
+python3 train.py --model-dir=model --batch-size=32 --workers=4 --epochs=30 data
 ```
 
 ## Exporting the Model
